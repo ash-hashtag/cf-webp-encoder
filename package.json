@@ -1,5 +1,5 @@
 {
-  "name": "webp_image_encoder_wasm",
+  "name": "cf-webp-encoder",
   "version": "1.0.3",
   "main": "index.js",
   "license": "MIT"
