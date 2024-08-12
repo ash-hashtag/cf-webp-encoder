@@ -1,0 +1,6 @@
+{
+  "name": "webp_image_encoder_wasm",
+  "version": "1.0.3",
+  "main": "index.js",
+  "license": "MIT"
+}
